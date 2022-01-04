@@ -1,0 +1,19 @@
+body{ margin: 0;}
+h1{ font-size: 50px;}
+.name{ color: purple;}
+section{ display: flex;}
+.half{ width: 50%;
+    padding: 10px;
+}
+.half image{ width: 90%;}
+.link{ text-decoration: none;
+    background-image: linear-gradient( rgb(240, 65, 240), rgb(182, 8, 130));
+    font-weight: 900;
+    color: white;
+padding: 10px 40px;
+border-radius: 5px;
+}
+.topbanner{
+    background-image: url( image/top-banner.png);
+    background-repeat: no-repeat;
+}
