@@ -26,11 +26,27 @@ background-repeat: no-repeat;
 background-position:right ;
 
 }
-.experience{ display: flex;
-    padding-left: initial;
+    .exarea{ display: flex; padding-top: 100px;
+        background-image: url(image/exp-bg.png);
+        background-repeat: no-repeat;
+       background-position: left;
     
 }
-.area{border-left: solid navy;
-text-underline-position: initial; 
+#exareab{
 
-box-shadow:gray;}
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    border-left: 10px solid navy; box-shadow: 10px 10px 40px gray;}
+    #shadow{ box-shadow: 10px 10px 40px gray;
+    border-left: indianred;
+
+margin-left: 5%;
+margin-right: 5%;
+padding: 20px;
+border-radius: 10px;
+border-left: 10px solid salmon;}
+
+
+
