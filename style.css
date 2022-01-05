@@ -1,3 +1,6 @@
+body{ 
+    font-family: 'Lobster', cursive;
+    font-family: 'Poppins', sans-serif;}
 body{ margin: 0;}
 h1{ font-size: 50px;}
 .name{ color: purple;}
@@ -17,3 +20,17 @@ border-radius: 5px;
     background-image: url( image/top-banner.png);
     background-repeat: no-repeat;
 }
+.img{ width: 100%;}
+.middle{ background-image: url(image/dream-bg.png);
+background-repeat: no-repeat;
+background-position:right ;
+
+}
+.experience{ display: flex;
+    padding-left: initial;
+    
+}
+.area{border-left: solid navy;
+text-underline-position: initial; 
+
+box-shadow:gray;}
